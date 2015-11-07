@@ -8,7 +8,7 @@ We are starting out PWL chapter at Kathmandu so that we can also be the part of 
 
 We are working on to make first meetup happen at November 22, 2015.
 
-We can be reached at our [Facebook Group](https://www.facebook.com/groups/1004669842909958/) or our [#pwlktm slack channel]([Slack](https://paperswelove.slack.com/messages/pwlktm/)
+We can be reached at our [Facebook Group](https://www.facebook.com/groups/1004669842909958/) or our [#pwlktm slack channel](https://paperswelove.slack.com/messages/pwlktm/)
 
 ### Contact
 
