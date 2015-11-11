@@ -17,8 +17,8 @@
 
 ## Speakers
 
-| Speakers          | Bio                                          | Reach  |
-| :---------------- |:-------------------------------------------- |
+| Speakers          | Bio  | Reach  |
+| :---------------- |:--------------------------------- | :-- |
 | Ashmit Bhattarai  |Ashmit is currently doing research in NLP at Kathmandu university. He is also cofounder of opinio. |email: ashmit_dl AT hotmail  |
 | Suraj Jung Pandey | Suraj Dai is currently working as Senior Software Engineer at LogPoint A/S. His expertise lies in the field of NLP and Information extraction. He has completed his masters by research at University of York, United Kingdom. After that he had worked at the University of York as NLP researcher for 3 years. | twitter: @suraj_surajjung |
 
