@@ -22,7 +22,7 @@
 | Speakers          | Bio  | Reach  |
 | :---------------- |:--------------------------------- | :-- |
 | Ashmit Bhattarai  |Ashmit is currently doing research in NLP at Kathmandu university. He is also cofounder of opinio. |email: ashmit_dl AT hotmail  |
-| Chandan Gupta | Chandan dai is cofounder of opinio and has completed Masters by Research in Computer Science at kathmandu university. His research areas is focused in NLP for Nepali language. | [twitter: @chandangoopta](https://twitter.com/chandangoopta)|
+| Chandan Gupta | Chandan Goopta is cofounder of opinio and has completed Masters by Research in Computer Science at kathmandu university. His research areas is focused in NLP for Nepali language. | [twitter: @chandangoopta](https://twitter.com/chandangoopta)|
 
 ## Talks
 
