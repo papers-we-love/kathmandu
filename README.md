@@ -14,3 +14,7 @@ We can be reached at our [Facebook Group](https://www.facebook.com/groups/100466
 
 * [Sudip Kafle](https://www.twitter.com/KafleSudip), Cofounder and CTO at Phunka technologies, (email:  soodip.kafle AT gmail YOU_KNOW_AFTER_THAT)
 * [Umanga Bista](https://www.twitter.com/bistaumanga),  Associate Research Engineer at [LogPoint](https://www.twitter.com/LogPointSIEM), (email:  bistaumanga AT gmail YOU_KNOW_AFTER_THAT )
+
+### Meetups
+
+1. [Nov 22, 2015 @ LogPoint A/S, Jawalakhel](meetups/meetup01.md) 

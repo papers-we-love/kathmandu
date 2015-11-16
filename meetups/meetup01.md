@@ -14,7 +14,7 @@
 
 *  __11.00 to 11.10__ : Welcome by _Umanga Bista_
 *  __11.10 to 11.30__ : Talk by _Ashmit Bhattarai_, Q/As
-*  __11.30 to 12.00__ : Talk by _Suraj Jung Pandey_, Q/As
+*  __11.30 to 12.00__ : Talk by _Chandan Gupta_, Q/As
 *  __12.00 onwards__ : gathering
 
 ## Speakers
