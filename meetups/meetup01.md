@@ -1,12 +1,14 @@
 # PWL Kathmandu Meetup 01
 
+![pwlktm01](images/meetup01.jpg)
+
 ## Event
 
 |   event       | [fb link](https://www.facebook.com/events/744766289001751/)|
 | :------------ |:-------------------------------------------- |
 | Theme         | Natural Language Processing                  |
 | Schedule      | Nov 22, 2015 Sunday at 11.00 AM to 12.30 AM  |
-| Venue         | TBA                                          |
+| Venue         | [LogPoint](https://www.logpoint.com) A/S Nepal, 3rd Floor, Steel Tower, Jawalakhel, Lalitpur, Nepal|
 
 ## Agenda
 
@@ -20,7 +22,7 @@
 | Speakers          | Bio  | Reach  |
 | :---------------- |:--------------------------------- | :-- |
 | Ashmit Bhattarai  |Ashmit is currently doing research in NLP at Kathmandu university. He is also cofounder of opinio. |email: ashmit_dl AT hotmail  |
-| Suraj Jung Pandey | Suraj Dai is currently working as Senior Software Engineer at LogPoint A/S. His expertise lies in the field of NLP and Information extraction. He has completed his masters by research at University of York, United Kingdom. After that he had worked at the University of York as NLP researcher for 3 years. | twitter: @suraj_surajjung |
+| Chandan Gupta | Chandan dai is cofounder of opinio and has completed Masters by Research in Computer Science at kathmandu university. His research areas is focused in NLP for Nepali language. | [twitter: @chandangoopta](https://twitter.com/chandangoopta)|
 
 ## Talks
 
@@ -34,8 +36,11 @@ The discussion will revolve around POS,Parts-Of-Speech, tagging for Nepali Langu
 
 Other details and blog post will be filled after the event.
 
-### Suraj Jung Pandey
+### Chandan gupta
 
-Most probably will be Latent Drichilet Allocation.
+[Detecting Sentiment in Nepali texts: A bootstrap approach for Sentiment Analysis of texts in the Nepali language](http://goo.gl/zizq1J)
+
+> Gupta, C.P.; Bal, B.K., "Detecting Sentiment in Nepali texts: A bootstrap approach for Sentiment Analysis of texts in the Nepali language," in Cognitive Computing and Information Processing (CCIP), 2015 International Conference on , vol., no., pp.1-4, 3-4 March 2015
+doi: 10.1109/CCIP.2015.7100739
 
 Other details and blog post will be filled after the event.
